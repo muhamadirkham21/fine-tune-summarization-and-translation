@@ -13,7 +13,7 @@ class KomodoModel:
             model_name=self.model_name,
             max_seq_length=self.max_seq_length,
             load_in_4bit=self.load_in_4bit,
-            token="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",  # Ganti dengan token Anda jika diperlukan
+            token="***********",  # Ganti dengan token Anda jika diperlukan
         )
         return model, tokenizer
 
