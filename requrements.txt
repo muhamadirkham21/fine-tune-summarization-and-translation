@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+rouge-score
+sacrebleu
+nltk
+pandas
+tqdm
+unsloth
